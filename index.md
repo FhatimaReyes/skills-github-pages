@@ -1,4 +1,5 @@
 ---
-layout: default
-title: Home Page
+# Github Pages title
+
+### Github Pages test
 ---
