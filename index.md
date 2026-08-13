@@ -1,5 +1,5 @@
 ---
-# Github Pages title
+# A Github Page Title
 
-### Github Pages test
+This site was built using [GitHub Pages](https://pages.github.com/)
 ---
