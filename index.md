@@ -1,4 +1,4 @@
 ---
 layout: default
-Home Page
+title: Home Page
 ---
